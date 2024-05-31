@@ -1,4 +1,6 @@
 # VR DINO
+![alt text](https://github.com/phillian-sp/VR_DINO/blob/main/VR_DINO_FRONT.jpg?raw=true)
+
 Authors: [Cici Hou](mailto:xhou@stanford.edu), [Phillip Miao](mailto:pmiao@stanford.edu)
 
 Feel free to reach out to us if you have any questions or feedback!
@@ -34,4 +36,4 @@ The project is built using Unity 2022.3.30f1. Please make sure you have the corr
 For more information about the specific design and implementation of the game, please refer to the paper in the `docs/` folder. The paper provides a detailed overview of the game, including the design process and implementation details.
 
 ## Acknowledgements
-We would like to thank the EE 267 professor and TAs for their guidance and support throughout the development of this project.
+We would like to thank the EE 267 Professor Gordon Wetzstein and TAs Manu and Suyeon for their guidance and support throughout the development of this project.
